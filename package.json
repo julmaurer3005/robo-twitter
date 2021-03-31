@@ -1,0 +1,27 @@
+{
+  "name": "100diasdecodigo",
+  "version": "1.0.1",
+  "description": "A simple bot to retweet #100diasdecódigo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julmaurer3005/robo-twitter.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Júlio Campos <oi@juliocampos.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/jcserracampos/100diasdecodigo_bot/issues"
+  },
+  "homepage": "https://github.com/jcserracampos/100diasdecodigo_bot#readme"
+}
